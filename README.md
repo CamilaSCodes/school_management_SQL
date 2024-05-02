@@ -4,6 +4,8 @@
 
 The School Database Management repository provides a comprehensive solution for managing data within an educational context. It includes database schema definitions, SQL scripts for initializing the database, inserting sample data, performing queries, and implementing advanced functionality using functions and triggers.
 
+[![repo](https://img.shields.io/badge/repo-teal?style=plastic&logo=github&logoColor=008080&labelColor=white)](https://github.com/CamilaSCodes/court_management_SQL) &ensp; Court Database Management &emsp; | &emsp;  [![repo](https://img.shields.io/badge/repo-teal?style=plastic&logo=github&logoColor=008080&labelColor=white)](https://github.com/CamilaSCodes/school_management_SQL) &ensp; **School Database Management**
+
 ## Overview
 
 In today's dynamic educational landscape, efficient management of student data, course offerings, and faculty resources is crucial for academic institutions to thrive. However, manual record-keeping and disparate data sources often lead to inefficiencies, hindering administrative processes and decision-making.
