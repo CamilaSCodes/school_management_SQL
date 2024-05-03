@@ -10,7 +10,7 @@ The School Database Management repository provides a comprehensive solution for 
 
 In today's dynamic educational landscape, efficient management of student data, course offerings, and faculty resources is crucial for academic institutions to thrive. However, manual record-keeping and disparate data sources often lead to inefficiencies, hindering administrative processes and decision-making.
 
-The School Management SQL project addresses these challenges by providing a robust database schema and a suite of SQL scripts tailored for educational institutions. By implementing this solution, institutions can streamline their administrative workflows, improve data accuracy, and gain actionable insights for strategic planning.
+The School Database Management project addresses these challenges by providing a robust database schema and a suite of SQL scripts tailored for educational institutions. By implementing this solution, institutions can streamline their administrative workflows, improve data accuracy, and gain actionable insights for strategic planning.
 
 ## Schema
 
